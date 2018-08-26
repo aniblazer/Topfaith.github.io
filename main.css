@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+body,html {
+    margin: 0;
+    height: 100%;
+    padding:0;
+    width: 100;
+    font-family: Poppins ,sans-serif;
+
+} 
+#school-logo{
+    position: relative;
+    top:-470px;
+    border:1px solid #2E4180;
+    background-color: #1E3272;
+    padding:8px 2px 4px 2px;
+    height:5rem;
+    box-shadow: 0 4px 8px 0 rgb(32, 54, 126), 0 6px 20px 0 rgb(32, 54, 126);
+}
+.intro{
+     
+    height: 105%;
+    width: 100%;
+    background: linear-gradient(rgba(46, 65, 128, 0.16), rgba(46, 65, 128, 0.68)), url(img/header.png) no-repeat 50% 50%;
+    display: table;
+   background-size:cover;
+   margin-bottom:100px;
+} 
+.intro .inner{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.navbar2{
+    background-color: rgb(32, 54, 126);
+}
+.navbar12{
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.nav-line.active{
+    border-bottom:2px solid #FFF705;
+    width:5px ;
+    
+}
+.nav-line:hover{
+    border-bottom:2px solid #FFF705;
+     
+}
+.nav2{
+    padding-left:80px;
+}
+.nav3{}
+
+
+#video{
+    height: 390px;
+}
+
+
+.Concepts{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(rgba(2, 15, 54, 0.885), rgba(2, 15, 54, 0.885)), url(img/image4.1.png) no-repeat 50% 50%;
+   background-size:cover;
+   margin-bottom:100px;
+   padding-bottom:100px;
+   padding-top:50px;
+}
+
+
+.text{
+    color: #FFF705;
+    font-size: 20px;
+}
+.b1{
+    border-right: 2px #FFF705 dotted;
+    border-bottom: 2px #FFF705 dotted;
+}
+.b2{
+    border-right: 2px #FFF705 dotted;
+    border-bottom: 2px #FFF705 dotted;
+}
+.b3{
+    border-right: 2px #FFF705 dotted;
+    border-bottom: 2px #FFF705 dotted;
+}
+.b4{
+    border-bottom: 2px #FFF705 dotted;
+}
+.b5{
+    border-right: 2px #FFF705 dotted;
+    padding: 20px;
+}
+.b6{
+    border-right: 2px #FFF705 dotted;
+    padding: 20px;
+}
+.b7{
+    border-right: 2px #FFF705 dotted;
+    padding: 20px;
+}
+.b8{
+    padding: 20px;
+}
+.blog-text{
+    position: relative;
+    top:-44px;
+    text-align: center;
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.53);
+    padding:10px 3px 10px 3px;
+}
